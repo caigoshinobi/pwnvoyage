@@ -1,4 +1,4 @@
-# CHAPTER 1: THE SWORD OF HEROES
+# CHAPTER 1: The Sword of Heroes
 
 ## WELCOME
   
