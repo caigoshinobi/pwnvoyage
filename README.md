@@ -1,4 +1,4 @@
-# CHAPTER 1: The Sword of Heroes
+# PWNVOYAGE: The Sword of Heroes
 
 ## WELCOME
   
