@@ -121,7 +121,7 @@ __int64 __fastcall main(int a1, char **a2, char **a3)
 
 Some now we know that:
 
-- The `haystack` variable is declared and initialized with the value **CLOSED** This variable represents the state of the Vault door.
+- The `haystack` variable is declared and initialized with the value **CLOSED**. This variable represents the state of the Vault door.
 
 - The program attempts to open the file named **FLAG.txt** in read mode using `fopen`. If successful, it reads the content of the file into the `ptr` array with `fread`, limited to 300 bytes. Then, it closes the file.
 
