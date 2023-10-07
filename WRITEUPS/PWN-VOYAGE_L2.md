@@ -188,5 +188,4 @@ to enter... yet you charge ahead with all your might.
 
 -$> Flag: NTRLGC{H3LL0B1TCH3S!}
 
-
 ```
