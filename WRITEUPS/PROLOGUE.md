@@ -51,7 +51,7 @@ I_signpost_TOO_SpineChilling_Manor
 ```
 
 By stringing together the uppercase words from the various signposts in order, we obtain: TOOYOUNGTODIEBRO
-So...
+so...
 
 ```
 
@@ -68,7 +68,7 @@ So...
 
 ```
 
-There's no need to go into too much detail on this challenge; however, we can say that through examining the file, we see that the binary is not stripped
+There's no need to go into too much detail on this challenge; however, we can say that through examining the file, we see that the binary is not stripped.
 
 ```
 
