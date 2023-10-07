@@ -185,7 +185,6 @@ to enter... yet you charge ahead with all your might.
 -$> Access Granted. Now let's pwn this f*cking door
 
 -$> You give an almighty shove. The door is now OPEN
-D
 
 -$> Flag: NTRLGC{H3LL0B1TCH3S!}
 
