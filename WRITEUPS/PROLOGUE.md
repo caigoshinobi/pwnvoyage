@@ -39,7 +39,7 @@ direction to take.
 
 ```
 
-Running "strings" on the executable, we find the first signpost:
+Running the `strings` command on the executable, we find the first signpost:
 
 ```
 
