@@ -1,4 +1,4 @@
-# PWNVOYAGE / GAME / PWN-VOYAGE_L1
+# PWNVOYAGE / GAME / PWN-VOYAGE_L2
 
 Finally, things get more interesting. With the `file` command, we can observe that the binary is stripped. Additionally, we are prompted for a file named **FLAG.txt** containing the flags from the previous level.
 
