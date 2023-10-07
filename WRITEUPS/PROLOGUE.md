@@ -50,7 +50,7 @@ I_signpost_TOO_SpineChilling_Manor
 
 ```
 
-By stringing together the uppercase words from the various signposts in order, we obtain: TOOYOUNGTODIEBRO
+By stringing together the uppercase words from the various signposts in order, we obtain: **TOOYOUNGTODIEBRO**
 so...
 
 ```
