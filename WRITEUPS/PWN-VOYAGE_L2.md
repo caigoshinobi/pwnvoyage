@@ -40,7 +40,7 @@ to enter... yet you charge ahead with all your might.
 
 ```
 
-After inserting the required file, we discover that Knight is attempting to break through the Vault door, which is flagged as **CLOSED**.
+After creating the required file, we discover that Knight is attempting to break through the Vault door, which is flagged as **CLOSED**.
 
 ```
 
