@@ -15,3 +15,5 @@ The FLAG is also used as a password to enter the next level.
 May arcane arts and cunning guide you in the fight against the dark forces of the Vault.
 
 ## PWN VOYAGE!
+
+<img src="COVER/COVER.jpg" alt="Cover" width="60%">
