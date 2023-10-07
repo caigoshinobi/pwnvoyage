@@ -133,7 +133,7 @@ Some now we know that:
 We can also note a possible vulnerability in this code, primarily due to the use of `fread`. The reason is that `fread` reads data from the file without checking the size of the data compared to the size of the destination buffer, which can lead to a stack overflow if the read data exceeds the buffer's size.
 
 
-If indeed we insert some A's inside FLAG.txt:
+If indeed we insert some A's inside **FLAG.txt**:
 
 ```
 
