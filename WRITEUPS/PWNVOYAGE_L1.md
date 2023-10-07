@@ -1,4 +1,4 @@
-# PWNVOYAGE / SPECIAL / PROLOGUE
+# PWNVOYAGE / GAME / PWN-VOYAGE_L1
 
 Here we have a prompt, necessary to cross the bridge.
 
