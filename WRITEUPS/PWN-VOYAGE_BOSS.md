@@ -108,7 +108,7 @@ pwndbg> start
 pwndbg> ni 
 ```
 
-`ni` stands for `next instruction`. We continue to run untile until we'll find the first prompt. Then `CTRL+C` and `ni` again until this point:
+`ni` stands for `next instruction`. Continue to run it a couple of time, until we'll find the first prompt. Then `CTRL+C` and `ni` again until this point:
 
 ```
 pwndbg> ni
