@@ -130,7 +130,7 @@ pwndbg> ni
  
 ```
 
-We know that Grimshade now have 0xf9 HP (249 HP). Again `ni` until we find this point. 
+We know that Grimshade now have 0xf9 HP (249 HP). Again `ni` until we find this call. 
 
 ```
 ───────────────────────────────────────────────────[ DISASM / x86-64 / set emulate on ]────────────────────────────────────────────────────
